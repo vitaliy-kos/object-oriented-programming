@@ -1,6 +1,6 @@
 package Homework01;
 
-public class BottleOfMilk extends Product{
+public class BottleOfMilk extends Product {
 
     private int volume; // объем
     private int fat; // Содержание жирности
