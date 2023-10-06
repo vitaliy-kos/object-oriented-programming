@@ -1,8 +1,6 @@
 package Homework05.presenters;
 
 import Homework05.models.Table;
-import Homework05.models.TableModel;
-import Homework05.views.BookingView;
 
 import java.util.Collection;
 import java.util.Date;
